@@ -745,6 +745,11 @@ button {
     gap: 12px;
   }
 
+  .zeno-footer .footer-button {
+    position: relative;
+    top: -32px;
+  }
+
   .footer-button {
     width: 42px;
     height: 42px;
